@@ -1,0 +1,4 @@
+- 小的 todo-list
+- 使用 redux, react-redux 作为状态管理
+- 不涉及到side effects的处理
+- [线上代码](https://basic-redux-todos.stackblitz.io)
